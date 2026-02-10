@@ -17,7 +17,7 @@ These patterns are designed for **local-first or self-managed environments**, wi
 
 ## Why This Exists
 
-Most AI failures are not model failures — they are **operational failures**:
+Most AI failures are not model failures - they are **operational failures**:
 - silent crashes
 - hung inference processes
 - degraded performance with no alerts

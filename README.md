@@ -2,7 +2,7 @@
 
 This repository documents practical reliability patterns used to operate AI-backed systems in production-style environments.
 
-The focus is not model training — it is keeping AI systems **alive, observable, and recoverable**.
+The focus is not model training - it is keeping AI systems **alive, observable, and recoverable**.
 
 ## What This Covers
 
